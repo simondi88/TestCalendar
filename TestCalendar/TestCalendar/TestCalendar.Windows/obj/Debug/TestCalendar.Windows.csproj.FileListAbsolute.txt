@@ -1,0 +1,11 @@
+C:\Coding\Mobile\TestCalendar\TestCalendar\TestCalendar.Windows\obj\Debug\TestCalendar.Windows.csprojResolveAssemblyReference.cache
+C:\Coding\Mobile\TestCalendar\TestCalendar\TestCalendar.Windows\obj\Debug\App.g.i.cs
+C:\Coding\Mobile\TestCalendar\TestCalendar\TestCalendar.Windows\obj\Debug\App.g.cs
+C:\Coding\Mobile\TestCalendar\TestCalendar\TestCalendar.Windows\obj\Debug\MainPage.g.i.cs
+C:\Coding\Mobile\TestCalendar\TestCalendar\TestCalendar.Windows\obj\Debug\MainPage.g.cs
+C:\Coding\Mobile\TestCalendar\TestCalendar\TestCalendar.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Coding\Mobile\TestCalendar\TestCalendar\TestCalendar.Windows\obj\Debug\App.xaml
+C:\Coding\Mobile\TestCalendar\TestCalendar\TestCalendar.Windows\obj\Debug\MainPage.xaml
+C:\Coding\Mobile\TestCalendar\TestCalendar\TestCalendar.Windows\obj\Debug\App.xbf
+C:\Coding\Mobile\TestCalendar\TestCalendar\TestCalendar.Windows\obj\Debug\MainPage.xbf
+C:\Coding\Mobile\TestCalendar\TestCalendar\TestCalendar.Windows\obj\Debug\XamlSaveStateFile.xml

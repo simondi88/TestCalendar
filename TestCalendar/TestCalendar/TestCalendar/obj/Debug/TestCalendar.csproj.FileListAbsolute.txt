@@ -1,0 +1,2 @@
+C:\Coding\Mobile\TestCalendar\TestCalendar\TestCalendar\obj\Debug\TestCalendar.csprojResolveAssemblyReference.cache
+C:\Coding\Mobile\TestCalendar\TestCalendar\TestCalendar\obj\Debug\TestCalendar.TestCalendar.xaml.g.cs

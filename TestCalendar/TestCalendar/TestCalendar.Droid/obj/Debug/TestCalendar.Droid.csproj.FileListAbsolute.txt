@@ -1,0 +1,1 @@
+C:\Coding\Mobile\TestCalendar\TestCalendar\TestCalendar.Droid\obj\Debug\TestCalendar.Droid.csprojResolveAssemblyReference.cache
