@@ -1,0 +1,11 @@
+/out:"C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar.UWP\obj\x64\Debug\ilc\intermediate\SgGenerated\\"
+/int:"C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar.UWP\obj\x64\Debug\ilc\intermediate\\"
+/ref:"C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar.UWP\obj\x64\Debug\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar.UWP\obj\x64\Debug\ilc\intermediate\TransformedSRWR\\"
+/ref:"C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar.UWP\obj\x64\Debug\ilc\in\\"
+/ref:"C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar.UWP\obj\x64\Debug\ilc\in\\"
+/ref:"C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar.UWP\obj\x64\Debug\ilc\in\\"
+/ref:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\x64\ilc\lib\Private\\"
+/ref:"C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar.UWP\obj\x64\Debug\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib
+"@C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar.UWP\obj\x64\Debug\ilc\intermediate\PreMergeILTransformed\ComputedSerializationInput.txt"

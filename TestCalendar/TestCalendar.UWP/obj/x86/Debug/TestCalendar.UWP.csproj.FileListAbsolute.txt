@@ -1,0 +1,11 @@
+C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar.UWP\obj\x86\Debug\TestCalendar.UWP.csprojResolveAssemblyReference.cache
+C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar.UWP\obj\x86\Debug\App.g.i.cs
+C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar.UWP\obj\x86\Debug\App.g.cs
+C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar.UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar.UWP\obj\x86\Debug\MainPage.g.cs
+C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar.UWP\obj\x86\Debug\App.xaml
+C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar.UWP\obj\x86\Debug\MainPage.xaml
+C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar.UWP\obj\x86\Debug\App.xbf
+C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar.UWP\obj\x86\Debug\MainPage.xbf
+C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar.UWP\obj\x86\Debug\XamlSaveStateFile.xml

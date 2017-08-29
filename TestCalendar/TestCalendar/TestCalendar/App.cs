@@ -32,7 +32,7 @@ namespace TestCalendar
 
         public App()
         {
-            MainPage = new TestCalendar();
+            MainPage = new HelloWorld();
         }
 
         protected override void OnStart()

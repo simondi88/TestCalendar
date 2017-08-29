@@ -1,0 +1,2 @@
+C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar.UWP\TestCalendar.UWP.csproj;x64
+C:\Coding\Mobile\Test1\TestCalendar\TestCalendar\TestCalendar\TestCalendar\TestCalendar.csproj;neutral
